@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head><title>ToDo - Frantz</title></head>
+<body>
+<h1>Mes Tâches BTS SIO</h1>
+<input id="task" placeholder="Nouvelle tâche...">
+<button onclick="add()">Ajouter</button>
+<ul id="list"></ul>
+<script>
+function add(){
+ let i=document.getElementById('task');
+ let l=document.getElementById('list');
+ if(i.value=='')return;
+ let li=document.createElement('li');
+ li.innerHTML=i.value+' <span onclick="this.parentElement.remove()">X</span>';
+ l.appendChild(li);
+ i.value=''
+}
+</script>
+</body>
+</html>
