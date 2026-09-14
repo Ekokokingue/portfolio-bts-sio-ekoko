@@ -1,9 +1,18 @@
 # Portfolio BTS SIO SLAM - Frantz EKOKO
-> Project initiated in January 2026 during my self-learning program to prepare my reorientation from 2 years of scientific preparatory classes (PCSI/PC) to BTS SIO SLAM.
-> Student at INGETIS Paris - 2026/2027
 
-This portfolio documents my preparation period from January to September 2026:
-- January-May 2026: Intensive self-learning (English B2 technical, HTML/CSS/JS basics, Python)
-- Focus on SLAM option (Software Development)
+**Période : Janvier - Mai 2026 (convalescence active à domicile)**
+Suite à mon plein rétablissement en Décembre 2025.
 
-GitHub: https://github.com/ekokoking
+Ce portfolio regroupe mes projets développés en local pendant ma préparation.
+
+### Planning réel :
+- Janv-Fev 2026 : HTML5 / CSS3
+- Mars 2026 : JavaScript (DOM, événements)
+- Avril 2026 : Calculatrice JS + To-Do List
+- Août 2026 : Mise en ligne GitHub pour dossier Campus France
+
+### Liens :
+- Portfolio : https://ekokokingue.github.io/portfolio-bts-sio-ekoko/
+- Objectif : BTS SIO SLAM - INGETIS Paris 2026
+
+*Projets réalisés hors-ligne, upload en Août 2026*
